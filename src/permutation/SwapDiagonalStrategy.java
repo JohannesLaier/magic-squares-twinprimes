@@ -1,8 +1,6 @@
-package parmutate;
+package permutation;
 
 import math.Matrix;
-
-import java.util.Random;
 
 public class SwapDiagonalStrategy implements IStrategy {
     @Override

@@ -1,4 +1,4 @@
-package parmutate;
+package permutation;
 
 import math.Matrix;
 

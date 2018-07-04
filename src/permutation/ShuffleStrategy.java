@@ -1,7 +1,6 @@
-package parmutate;
+package permutation;
 
 import math.Matrix;
-import random.MersenneTwister;
 import random.MersenneTwisterFast;
 
 import java.util.*;

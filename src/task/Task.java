@@ -2,7 +2,7 @@ package task;
 
 import config.Configuration;
 import math.Matrix;
-import parmutate.*;
+import permutation.*;
 import random.MersenneTwisterFast;
 
 import java.util.concurrent.BrokenBarrierException;

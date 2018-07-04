@@ -1,9 +1,7 @@
-package parmutate;
+package permutation;
 
 import math.Matrix;
 import random.MersenneTwisterFast;
-
-import java.util.Random;
 
 public class SwapRowStrategy implements IStrategy {
 

@@ -2,13 +2,12 @@ package math;
 
 
 import config.Configuration;
-import parmutate.ShuffleStrategy;
+import permutation.ShuffleStrategy;
 import random.MersenneTwisterFast;
 
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
-import java.util.stream.Collectors;
 
 public class Matrix implements Comparable<Matrix> {
 
